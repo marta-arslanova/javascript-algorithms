@@ -18,7 +18,7 @@ function findVowels(str) {
 
     } 
   })
-  return result;X 
+  return result;
 }
   
 
